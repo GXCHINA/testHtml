@@ -11,7 +11,7 @@
             "src": "/",
             "dest": "/index.html"
         }
-		{ "src": "/images/index.css", "dest": "/images/index.css" }
+		{ "src": "/scripts/all.js", "dest": "/scripts/all.js" }
     ]
 	
 }
