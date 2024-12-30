@@ -11,6 +11,7 @@
             "src": "/",
             "dest": "/index.html"
         }
-		{ "src": "/images/index.css", "dest": "/images/index.css" }
-    ]
+		
+    ],
+	"trailingSlash": true
 }
